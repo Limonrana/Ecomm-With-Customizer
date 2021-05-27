@@ -1,0 +1,65 @@
+/*
+==========================
+My Own CSS for Admin Panel
+==========================
+*/
+
+.toggle-icon-wrapper {
+    padding-left: 0 !important;
+    margin-right: 0 !important;
+}
+.navbar-brand {
+    font-size: 1.4rem !important;
+}
+
+li.nav-item.my-margin {
+    margin-left: 1.8em;
+}
+
+label.error {
+    color: red;
+}
+
+.circle-dashed {
+    width: 2.5rem !important;
+    height: 2.5rem !important;
+}
+
+span.invalid-feedback {
+    text-align: left;
+}
+
+.alert.alert-success {
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+/*Image Upload Box CSS*/
+.image-complete {
+    border: 2px dashed;
+    padding: 70px;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.fallback {
+    display: none;
+}
+.img-remove {
+    text-align: center !important;
+    display: none;
+    margin-top: 15px;
+}
+
+span.color-blue {
+    color: #2c7be5;
+    margin-left: 10px;
+}
+
+.my-preview-img {
+    width: 100%;
+    display: none;
+}
+.my-preview-img:hover {
+    opacity: 0.6;
+}
